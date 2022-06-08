@@ -1,0 +1,21 @@
+{
+  "baseBranches": ["develop"],
+  "extends": [
+    "config:base"
+  ],
+  "packageRules": [
+    {
+      "matchDepTypes": [
+        "dependencies"
+      ],
+      "groupName": "dependencies"
+    },
+    {
+      "matchDepTypes": [
+        "devDependencies"
+      ],
+      "groupName": "devDependencies"
+    }
+  ]
+}
+
