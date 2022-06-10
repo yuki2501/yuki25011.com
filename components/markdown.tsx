@@ -286,7 +286,7 @@ export const PreviewMd: React.FC<Props> = (props: Props) => {
   const children = props.mdast.children;
   const rootChildrenforPreview = props.mdast.children.slice(
     0,
-    children.length < 6 ? children.length : 6
+    children.length < 4 ? children.length : 4 
   );
   return (
     <chakra.div key={props.mdast.type}>
