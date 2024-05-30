@@ -43,7 +43,7 @@ function HomePage() {
         </chakra.div>
         <Text fontSize="5xl" fontWeight="bold" textAlign="center">{"yuki25011"}</Text>
         <Text fontSize="3xl" fontWeight="medium" textAlign="center">{"Saito Yuki"}</Text>
-        <Text fontSize="3xl" fontWeight="medium" textAlign="center">{" University Student (B3)"}</Text>
+        <Text fontSize="3xl" fontWeight="medium" textAlign="center">{"Graduate student(M1)"}</Text>
       <Spacer />
       <Divider />
       <Spacer />
@@ -71,6 +71,12 @@ function HomePage() {
       </ListItem>
       <ListItem>
       <TimeLineBullet timeline_date="2021.08~2021.09" timeline_content="いい生活 サマーインターン参加" />
+      </ListItem>
+      <ListItem>
+      <TimeLineBullet timeline_date="2022.08" timeline_content="セキュリティ・キャンプ2022 DB自作コース参加" />
+      </ListItem>
+      <ListItem>
+      <TimeLineBullet timeline_date="2022.05~2023.03" timeline_content="RAとして音声合成用webアプリケーションのフロントエンド担当" />
       </ListItem>
       </UnorderedList>
       </VStack>
