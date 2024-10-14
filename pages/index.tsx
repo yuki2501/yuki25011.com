@@ -78,6 +78,18 @@ function HomePage() {
       <ListItem>
       <TimeLineBullet timeline_date="2022.05~2023.03" timeline_content="RAとして音声合成用webアプリケーションのフロントエンド担当" />
       </ListItem>
+      <ListItem>
+      <TimeLineBullet timeline_date="2024.03" timeline_content="PPL2024 ポスター発表" />
+      </ListItem>
+      <ListItem>
+      <TimeLineBullet timeline_date="2024.08" timeline_content="日本経済新聞 サマーインターン参加" />
+      </ListItem>
+      <ListItem>
+      <TimeLineBullet timeline_date="2024.08" timeline_content="Dely株式会社 サマーインターン参加" />
+      </ListItem>
+      <ListItem>
+      <TimeLineBullet timeline_date="2024.09" timeline_content="PKSHA Technology サマーインターン参加" />
+      </ListItem>
       </UnorderedList>
       </VStack>
 
